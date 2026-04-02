@@ -1,0 +1,9 @@
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/config/DataInitializer.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/repository/PriceHistoryRepository.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/controller/DrinkController.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/service/ScraperService.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/model/PriceHistory.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/MonsterLocoTrackerApplication.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/model/MonsterDrink.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/repository/MonsterDrinkRepository.java
+/home/serg/Documents/java/java-n20/monster-loco-tracker/src/main/java/com/monsterloco/service/DrinkService.java

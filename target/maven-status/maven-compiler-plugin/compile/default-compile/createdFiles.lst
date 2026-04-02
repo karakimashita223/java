@@ -1,0 +1,14 @@
+com/monsterloco/model/PriceHistory.class
+com/monsterloco/controller/DrinkController$SyncResponse.class
+com/monsterloco/repository/MonsterDrinkRepository.class
+com/monsterloco/service/DrinkService$DrinkWithPrice.class
+com/monsterloco/config/DataInitializer.class
+com/monsterloco/model/MonsterDrink$MonsterDrinkBuilder.class
+com/monsterloco/model/PriceHistory$PriceHistoryBuilder.class
+com/monsterloco/repository/PriceHistoryRepository.class
+com/monsterloco/service/DrinkService.class
+com/monsterloco/model/MonsterDrink.class
+com/monsterloco/controller/DrinkController.class
+com/monsterloco/service/ScraperService.class
+com/monsterloco/service/ScraperService$ScrapeResult.class
+com/monsterloco/MonsterLocoTrackerApplication.class
